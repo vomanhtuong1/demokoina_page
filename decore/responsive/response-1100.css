@@ -1,0 +1,21 @@
+@media (max-width: 1100px){
+    .body-intro-solution-item{
+        flex-direction: row;   
+    }
+}
+
+@media (max-width: 1100px){
+    .body-intro-solution-if-btn{
+        display: flex;
+        flex-direction: column;
+        width: 500px;
+        height: auto;
+    }
+   
+    .body-intro-solution-information{
+        width: 500px;
+        text-align: justify;
+        height: auto
+    }
+    
+  }

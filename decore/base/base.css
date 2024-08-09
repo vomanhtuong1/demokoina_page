@@ -1,0 +1,24 @@
+body{
+    font-family:'Times New Roman', Times, serif;
+    margin: -21px 0 0 -21px;
+    padding-left: 20px;
+}
+
+a {
+    text-decoration: none;
+    color:rgb(54, 78, 113);
+    font-family: 'Times New Roman', Times, serif;
+}
+
+a:hover{
+    color: rgb(62, 108, 108);
+}
+
+button {
+    border: none;
+}
+
+.Logo-and-Brand{
+    width: 230px;
+    height: 115px;
+}
